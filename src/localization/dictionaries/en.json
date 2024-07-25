@@ -1,0 +1,9 @@
+{
+    "translation": {
+        "button.continue_reading": "Continue reading",
+        "button.next_chapter": "Next chapter",
+        "common.free": "Free",
+        "screens.discover_screen.title": "Discover",
+        "screens.reader_screen.title": "Chapter {{count}}"
+    }
+}
